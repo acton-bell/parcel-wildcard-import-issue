@@ -1,17 +1,12 @@
 function $parcel$export(e, n, v, s) {
   Object.defineProperty(e, n, {get: v, set: s, enumerable: true, configurable: true});
 }
-var $8ea94b3aa16e4389$exports = {};
+var $7ec14dace3340331$exports = {};
 
-$parcel$export($8ea94b3aa16e4389$exports, "bar", () => $8ea94b3aa16e4389$export$d927737047eb3867);
-const $8ea94b3aa16e4389$export$d927737047eb3867 = 1;
-
-
-
-const $149c1bd638913645$export$df8828f3926215de = {
-    bar: $8ea94b3aa16e4389$export$d927737047eb3867
-};
+$parcel$export($7ec14dace3340331$exports, "aConst", () => $7ec14dace3340331$export$1748e5d14a986284);
+const $7ec14dace3340331$export$1748e5d14a986284 = "aConst";
 
 
-export {$149c1bd638913645$export$df8828f3926215de as foo2};
+
+
 //# sourceMappingURL=module.js.map
