@@ -1,0 +1,1 @@
+{"mappings":"ACIA,OAAO,MAAM;;CAAc,CAAC","sources":["src/src/foo.ts","src/src/index.ts","src/index.ts"],"sourcesContent":[null,null,"import * as foo1 from \"./foo\";\r\nexport { foo1 };\r\n\r\nimport { bar } from \"./foo\";\r\nexport const foo2 = { bar };\r\n"],"names":[],"version":3,"file":"index.d.ts.map"}

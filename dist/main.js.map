@@ -1,0 +1,1 @@
+{"mappings":";;;;;;;;;ACAO,KAAK,CAAC,yCAAG,GAAG,CAAC;;;;ADIb,KAAK,CAAC,yCAAI,GAAG,CAAC;SAAC,yCAAG;AAAC,CAAC","sources":["src/index.ts","src/foo.ts"],"sourcesContent":["import * as foo1 from \"./foo\";\r\nexport { foo1 };\r\n\r\nimport { bar } from \"./foo\";\r\nexport const foo2 = { bar };\r\n","export const bar = 1;\r\n"],"names":[],"version":3,"file":"main.js.map"}
