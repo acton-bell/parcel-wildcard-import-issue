@@ -1,5 +1,5 @@
 {
-  "name": "vanilla",
+  "name": "parcel-wildcard-import-issue",
   "version": "0.0.0",
   "license": "UNLICENSED",
   "main": "dist/main.js",
